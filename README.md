@@ -8,6 +8,9 @@ BSW is the abbreviation of our workshop which serves client vehicles according t
 The guidelines for writing BSW for our workshop abbreviation follow existing guidelines and must be adjusted to the instructions below:
 BSW = BreSpeedWorks
 BreSpeedWorks is written without spaces, with the letters BSW in capital letters. Branding and promotion guidelines must comply with the above guidelines, in accordance with the principles of copyrighted works protected by law in force in the Republic of Indonesia for BSW Workshops.
+### Project Terbaru
+Proses pekerjaan proyek terbaru dari BreSpeedWorks Laboratories adalah mencetak koin-koin emas untuk di jadikan aset perusahaan berskala.
+terlebih dalam mempertahankan eksistensi pada ranah percaturan ekonomi digital dengan tujuan kami menjadi yang terbesar dengan membangun sesuatu yang terbaik pada era Q-Day nanti.
 
 
 
