@@ -11,6 +11,8 @@ BreSpeedWorks is written without spaces, with the letters BSW in capital letters
 ### Project Terbaru
 Proses pekerjaan proyek terbaru dari BreSpeedWorks Laboratories adalah mencetak koin-koin emas untuk di jadikan aset perusahaan berskala.
 terlebih dalam mempertahankan eksistensi pada ranah percaturan ekonomi digital dengan tujuan kami menjadi yang terbesar dengan membangun sesuatu yang terbaik pada era Q-Day nanti.
+![Quorum-State Official Logo](https://raw.githubusercontent.com)
+
 
 
 
