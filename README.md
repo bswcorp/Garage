@@ -15,7 +15,7 @@ terlebih dalam mempertahankan eksistensi pada ranah percaturan ekonomi digital d
 ![Quorum-State Official Pages](https://raw.githubusercontent.com)
 
  ## About Garage
- Garasi dipersiapkan untuk menangani banyaknya kegagalan dari Lembaga atau institusi yang mengalami kegagalan dalam bertransformasi ria ke arah Digital pada tahun 2032 mendatang.
+ Garasi dipersiapkan sebagai layanan luas menyangkut para pihak dalam menangani banyaknya  dari Lembaga atau institusi yang mengalami kegagalan dalam bertransformasi ria ke arah Digital pada tahun 2032 mendatang.
 
 
 
